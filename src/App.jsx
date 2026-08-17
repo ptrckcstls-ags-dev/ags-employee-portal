@@ -10,12 +10,9 @@ const LIGHT = "#F4F6FA";
 const MID   = "#4A5568";
 
 const CONFIG = {
-  hrEmail: "hr@allianceglobal.ph",
-  companyName: "Alliance Global Solutions",
-  address: "17th Floor, North Tower 1 EDSA cor. North Avenue, Quezon City",
-  website: "www.allianceglobal.ph",
-  handbookUrl: "#",
-  cocUrl: "#",
+  hrEmail: "hr.ags@allianceglobalsolutions.com",
+  handbookUrl: "https://drive.google.com/file/d/1je_z9eQpjtXT-TzPTS--Tp28T__BxroL/view?usp=drive_link",
+  cocUrl: "https://drive.google.com/file/d/1Izw5FL8Zjxvas0lGnidlASwO--dsGHvs/view?usp=drive_link",
 };
 
 const CONTACTS = [
